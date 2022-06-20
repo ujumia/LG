@@ -1,70 +1,44 @@
 
 
 
+-----------딥러닝으로 예측하는 시계열 예측 ------------------------------------
 
-TEST     TEST     TEST   TEST
-
-
-
-
-TEST
+TEST     TEST     TEST   TEST TEST     TEST     TEST   TEST
 
 
 
 
-TEST
+TEST     TEST     TEST   TEST TEST     TEST     TEST   TEST
 
 
 
 
-TEST
+TEST     TEST     TEST   TEST TEST     TEST     TEST   TEST
+
+
+TEST     TEST     TEST   TEST TEST     TEST     TEST   TEST
 
 
 
 
-TEST
+TEST     TEST     TEST   TEST TEST     TEST     TEST   TEST
 
 
 
-
-TEST
-
+TEST     TEST     TEST   TEST TEST     TEST     TEST   TEST
 
 
 
-TEST
+TEST     TEST     TEST   TEST TEST     TEST     TEST   TEST
 
 
 
-
-TEST
-
+TEST     TEST     TEST   TEST TEST     TEST     TEST   TEST
 
 
 
-TEST
+TEST     TEST     TEST   TEST TEST     TEST     TEST   TEST
 
 
 
-
-TEST
-
-
-
-
-TEST
-
-
-
-
-TEST
-
-
-
-
-TEST
-
-
-
-
-TEST
+TEST     TEST     TEST   TEST TEST     TEST     TEST   TEST
